@@ -12,7 +12,8 @@ namespace CRUD
         {
             get
             {
-                return @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\AndreTrust\Anhanguera\Trabalhos\C\CRUD\agenda.mdf;Integrated Security=True;Connect Timeout=30";
+                return @"";
+                // insira a string de conexão aqui
             }
         }
     }
