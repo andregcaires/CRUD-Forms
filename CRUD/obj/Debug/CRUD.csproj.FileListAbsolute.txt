@@ -1,0 +1,29 @@
+C:\Users\frp.8500545136\Desktop\VS Projetos\CRUD\CRUD\bin\Debug\CRUD.exe.config
+C:\Users\frp.8500545136\Desktop\VS Projetos\CRUD\CRUD\bin\Debug\CRUD.exe
+C:\Users\frp.8500545136\Desktop\VS Projetos\CRUD\CRUD\bin\Debug\CRUD.pdb
+C:\Users\frp.8500545136\Desktop\VS Projetos\CRUD\CRUD\obj\Debug\CRUD.csprojResolveAssemblyReference.cache
+C:\Users\frp.8500545136\Desktop\VS Projetos\CRUD\CRUD\obj\Debug\CRUD.Form1.resources
+C:\Users\frp.8500545136\Desktop\VS Projetos\CRUD\CRUD\obj\Debug\CRUD.Properties.Resources.resources
+C:\Users\frp.8500545136\Desktop\VS Projetos\CRUD\CRUD\obj\Debug\CRUD.csproj.GenerateResource.Cache
+C:\Users\frp.8500545136\Desktop\VS Projetos\CRUD\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\frp.8500545136\Desktop\VS Projetos\CRUD\CRUD\obj\Debug\CRUD.exe
+C:\Users\frp.8500545136\Desktop\VS Projetos\CRUD\CRUD\obj\Debug\CRUD.pdb
+C:\Users\frp.8500545136\Downloads\CRUD\CRUD\CRUD\bin\Debug\CRUD.exe.config
+C:\Users\frp.8500545136\Downloads\CRUD\CRUD\CRUD\bin\Debug\CRUD.exe
+C:\Users\frp.8500545136\Downloads\CRUD\CRUD\CRUD\bin\Debug\CRUD.pdb
+C:\Users\frp.8500545136\Downloads\CRUD\CRUD\CRUD\obj\Debug\CRUD.csprojResolveAssemblyReference.cache
+C:\Users\frp.8500545136\Downloads\CRUD\CRUD\CRUD\obj\Debug\CRUD.Form1.resources
+C:\Users\frp.8500545136\Downloads\CRUD\CRUD\CRUD\obj\Debug\CRUD.Properties.Resources.resources
+C:\Users\frp.8500545136\Downloads\CRUD\CRUD\CRUD\obj\Debug\CRUD.csproj.GenerateResource.Cache
+C:\Users\frp.8500545136\Downloads\CRUD\CRUD\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\frp.8500545136\Downloads\CRUD\CRUD\CRUD\obj\Debug\CRUD.exe
+C:\Users\frp.8500545136\Downloads\CRUD\CRUD\CRUD\obj\Debug\CRUD.pdb
+C:\AndreTrust\Anhanguera\Trabalhos\C\CRUD\CRUD\bin\Debug\CRUD.exe.config
+C:\AndreTrust\Anhanguera\Trabalhos\C\CRUD\CRUD\bin\Debug\CRUD.exe
+C:\AndreTrust\Anhanguera\Trabalhos\C\CRUD\CRUD\bin\Debug\CRUD.pdb
+C:\AndreTrust\Anhanguera\Trabalhos\C\CRUD\CRUD\obj\Debug\CRUD.Form1.resources
+C:\AndreTrust\Anhanguera\Trabalhos\C\CRUD\CRUD\obj\Debug\CRUD.Properties.Resources.resources
+C:\AndreTrust\Anhanguera\Trabalhos\C\CRUD\CRUD\obj\Debug\CRUD.csproj.GenerateResource.cache
+C:\AndreTrust\Anhanguera\Trabalhos\C\CRUD\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+C:\AndreTrust\Anhanguera\Trabalhos\C\CRUD\CRUD\obj\Debug\CRUD.exe
+C:\AndreTrust\Anhanguera\Trabalhos\C\CRUD\CRUD\obj\Debug\CRUD.pdb

@@ -1,0 +1,5 @@
+/WebCrud/*
+/packages/*
+.vs/*
+*.mdf
+*.ldf
